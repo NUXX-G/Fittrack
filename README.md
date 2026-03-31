@@ -139,7 +139,7 @@ The API will be available at `http://localhost:8080`
 
 ##  Team
 
-| Developer | Module |
+| Developer |
 |---|---|
-| NUXX-G | Authentication, security, ranking system |
-| Petter | Exercises, nutrition, food database |
+| NUXX-G |
+| Petter |
