@@ -139,7 +139,5 @@ The API will be available at `http://localhost:8080`
 
 ##  Team
 
-| Developer |
-|---|---|
-| NUXX-G |
-| Petter |
+Developed by **NUXX-G** and **Petter5-5**
+
